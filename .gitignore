@@ -1,0 +1,6 @@
+scripts
+.vscode
+.idea
+temp**
+data
+**__pycache__**
