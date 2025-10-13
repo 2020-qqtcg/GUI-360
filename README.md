@@ -764,12 +764,7 @@ python evaluation.py \
 If you use GUI-360° in your research, please cite:
 
 ```bibtex
-@inproceedings{gui360_2024,
-  title={GUI-360°: A Large-Scale Benchmark for Computer-Using Agents},
-  author={[Authors]},
-  booktitle={International Conference on Learning Representations (ICLR)},
-  year={2024}
-}
+
 ```
 
 ---
