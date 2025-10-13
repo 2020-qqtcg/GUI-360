@@ -4,7 +4,7 @@
 
 ### A Comprehensive Dataset And Benchmark For Computer-Using Agents
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](GUI360_ICLR.pdf)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)]()
 [![Dataset](https://img.shields.io/badge/Dataset-Available-green.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
