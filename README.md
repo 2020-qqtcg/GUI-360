@@ -8,7 +8,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Available-green.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[📄 Paper](GUI360_ICLR.pdf) • [🤗 Dataset]()
+[📄 Paper]() • [🤗 Dataset]()
 
 </div>
 
