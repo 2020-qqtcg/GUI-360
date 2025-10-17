@@ -5,10 +5,10 @@
 ### A Comprehensive Dataset And Benchmark For Computer-Using Agents
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)]()
-[![Dataset](https://img.shields.io/badge/Dataset-Available-green.svg)]()
+[![Dataset](https://img.shields.io/badge/Dataset-Available-green.svg)](https://huggingface.co/datasets/vyokky/GUI-360)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[📄 Paper]() • [🤗 Dataset]()
+[📄 Paper]() • [🤗 Dataset](https://huggingface.co/datasets/vyokky/GUI-360)
 
 </div>
 
