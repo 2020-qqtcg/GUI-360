@@ -98,10 +98,10 @@ pip install -r requirements.txt
 
 ### 2. 📁 Prepare the Dataset
 
-Download the GUI-360° dataset and organize it in the following structure:
+Download the GUI-360° dataset (use test folder for evaluation) and organize it in the following structure:
 
 ```
-<dataset_root>/
+test /
 ├── data/
 │   ├── <domain>/                # e.g., word, excel, ppt
 │   │   ├── <category>/
@@ -168,7 +168,7 @@ Run the evaluation framework with the desired task and model:
 **📍 GUI Grounding with GPT-4o**
 ```bash
 python evaluation.py \
-    --root_dir /path/to/dataset/grounding \
+    --root_dir ./test \
     --type grounding \
     --model_type gpt \
     --model_name gpt-4o \
@@ -179,7 +179,7 @@ python evaluation.py \
 **🤖 Action Prediction with Qwen2.5-VL-7B**
 ```bash
 python evaluation.py \
-    --root_dir /path/to/dataset/action_prediction \
+    --root_dir ./test \
     --type action_prediction \
     --model_type qwen2.5_vl_7b \
     --model_name Qwen/Qwen2.5-VL-7B-Instruct \
@@ -191,7 +191,7 @@ python evaluation.py \
 **🔍 Screen Parsing**
 ```bash
 python evaluation.py \
-    --root_dir /path/to/dataset/screen_parsing \
+    --root_dir ./test \
     --type screen_parsing \
     --model_type gpt \
     --model_name gpt-4o \
@@ -205,7 +205,7 @@ If evaluation is interrupted, you can resume from error cases:
 
 ```bash
 python evaluation.py \
-    --root_dir /path/to/dataset \
+    --root_dir ./test \
     --type action_prediction \
     --model_type gpt \
     --model_name gpt-4o \
