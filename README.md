@@ -114,7 +114,7 @@ Download the GUI-360° dataset and organize it in the following structure:
     │   │       └── *.png          # Screenshots
 ```
 
-For detailed dataset structure, see [data_card_readme.md](data_card_readme.md).
+For detailed dataset structure, see [GUI-360 Dataset](https://huggingface.co/datasets/vyokky/GUI-360).
 
 ### 3. 🔧 Deploy Your Model (Optional)
 
