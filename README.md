@@ -4,11 +4,11 @@
 
 ### A Comprehensive Dataset And Benchmark For Computer-Using Agents
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.04307)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-green.svg)](https://huggingface.co/datasets/vyokky/GUI-360)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[📄 Paper]() • [🤗 Dataset](https://huggingface.co/datasets/vyokky/GUI-360)
+[📄 Paper](https://arxiv.org/abs/2511.04307) • [🤗 Dataset](https://huggingface.co/datasets/vyokky/GUI-360)
 
 </div>
 
@@ -764,7 +764,12 @@ python evaluation.py \
 If you use GUI-360° in your research, please cite:
 
 ```bibtex
-
+@article{mu2025gui,
+  title={GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents},
+  author={Mu, Jian and Zhang, Chaoyun and Ni, Chiming and Wang, Lu and Qiao, Bo and Mathur, Kartik and Wu, Qianhui and Xie, Yuhang and Ma, Xiaojun and Zhou, Mengyu and others},
+  journal={arXiv preprint arXiv:2511.04307},
+  year={2025}
+}
 ```
 
 ---
@@ -773,16 +778,5 @@ If you use GUI-360° in your research, please cite:
 
 This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-## 💬 Contact & Support
-
-For questions, issues, or contributions:
-
-- 📧 **Email**: [contact email]
-- 🐛 **Issues**: [GitHub Issues](repository URL)
-- 💬 **Discussions**: [GitHub Discussions](repository URL)
-
----
 
 
